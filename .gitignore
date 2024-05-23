@@ -1,0 +1,21 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# User-specific files
+*.iws
+
+# IntelliJ out directory
+out/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Exclude all build directories (e.g., for Maven or Gradle projects)
+build/
+target/
+
